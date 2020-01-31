@@ -1,0 +1,9 @@
+1. 
+Relasi merupakan sebuah tabel dengan kolom-kolom dan baris-baris. Pada model relasional, relasi digunakan untuk menyimpan informasi mengenai objek-objek yang direpresentasikan dalam sebuah basis data.
+Atribut merupakan kolom dari suatu relasi yang mempunyai nama. Atribut-atribut pada suatu relasi tidak harus tersusun secara khusus.
+Tupel merupakan suatu baris dari suatu relasi.
+2. a. NPM, Nama, Jenis Kelamin, Jurusan, IPK
+   b. 57119789, 51319653, 56719451
+   c. 56719451, Maximilianus Anthoni, Laki - Laki, Ilmu Komputer, 3.17
+3. Primary key adalah salah satu candidate key yang kita nobatkan sebagai kolom unik untuk identifikasi baris dalam tabel.
+   Candidate Key adalah satu atau beberapa kolom dalam tabel yang bisa mengidentifikasi tiap baris dari tabel tersebut.
